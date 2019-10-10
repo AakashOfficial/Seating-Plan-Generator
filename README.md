@@ -16,7 +16,6 @@ This is My Final Year Project of Seating Plan Generation During Examinations. It
 
 
 
-.
 
 
 
@@ -33,7 +32,8 @@ This is My Final Year Project of Seating Plan Generation During Examinations. It
 
 
 
-m
+
+
 
 
 
